@@ -19,5 +19,14 @@ const emojipedia = [
     name: "Rolling On The Floor, Laughing",
     meaning:
       "This is funny! A smiley face, rolling on the floor, laughing. The face is laughing boundlessly. The emoji version of “rofl“. Stands for „rolling on the floor, laughing“."
+  },
+  {
+    id: 4,
+    emoji: "💩",
+    name: "Pile of Poo",
+    meaning:
+      "Crap, oh no! Such a sh**! The comic version of a pile of feces. Can describe a situation, replace the swear word, or criticize a statement of the chat partner."
   }
 ];
+
+export default emojipedia;
